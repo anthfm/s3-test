@@ -1,0 +1,1 @@
+6c248825-96fd-422f-9d90-a83892616143 autoenable=true bucket=datalad/test_dataset chunk=1GiB datacenter=US encryption=none host=10.3.9.246 name=s3.ii port=9000 public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1628783623.949105s
